@@ -16,7 +16,7 @@ const Create: NextPage = () => {
 
   // Connect to our marketplace contract via the useMarketplace hook
   const marketplace = useMarketplace(
-    "0x277C0FB19FeD09c785448B8d3a80a78e7A9B8952" // Your marketplace contract address here
+    "0x08a700dbF5ccfC728f0a9378B44e32b649c736A6" // Your marketplace contract address here
   );
 
   // This function gets called when the form is submitted.
